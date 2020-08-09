@@ -1,10 +1,10 @@
 # Proffy
 >> :rocket: Project made to connect teachers to students, made in Next Level Week #2 by @Rocketseat
 
-App with ReactNative
+> App with ReactNative
 ![Alt Text](https://s3-sa-east-1.amazonaws.com/certificados.diegoguimadev.com/appmenor.gif)
 
-App Fully Responsive with ReactJS
+> App Fully Responsive with ReactJS
 ![Alt Text](https://s3-sa-east-1.amazonaws.com/certificados.diegoguimadev.com/web.gif)
 
 # :pushpin: Table of Contents
@@ -182,7 +182,7 @@ Aferter read the QRCode with the app of [expo](https://play.google.com/store/app
 
 # :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the the [Proffy](https://github.com/vsamarcus/Proffy/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
+Feel free to **file a new issue** with a respective title and description on the the [Proffy](https://github.com/diegoguimadev/Proffy/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
 
 # :tada: Contributing
 
