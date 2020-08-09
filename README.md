@@ -2,7 +2,7 @@
 >> :rocket: Project made to connect teachers to students, made in Next Level Week #2 by @Rocketseat
 
 App with ReactNative
-![Alt Text](https://s3-sa-east-1.amazonaws.com/certificados.diegoguimadev.com/app.gif)
+![Alt Text](https://s3-sa-east-1.amazonaws.com/certificados.diegoguimadev.com/appmenor.gif)
 
 App Fully Responsive with ReactJS
 ![Alt Text](https://s3-sa-east-1.amazonaws.com/certificados.diegoguimadev.com/web.gif)
