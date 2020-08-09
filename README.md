@@ -2,10 +2,10 @@
 >> :rocket: Project made to connect teachers to students, made in Next Level Week #2 by @Rocketseat
 
 App with ReactNative
-![Alt Text](https://photos.google.com/share/AF1QipPa6wrZ6gP_2dJ6pzLd5A0BVgFFX-nErc_aWeGhhUMe4gL5cT2nCoBLa6VpGRmvbw/photo/AF1QipONfdSjUBGYAORBGiPHKlVXrBhOAxDYuWZIVV9W?key=NVdrUk40UTB3WDdseHZ6SUFTaHRDcjM5NDJXQ2RB)
+![Alt Text](https://s3-sa-east-1.amazonaws.com/certificados.diegoguimadev.com/app.gif)
 
 App Fully Responsive with ReactJS
-![Alt Text](https://photos.google.com/share/AF1QipOjg8mq1EyFG6K0aGVWNZuVpy5mZv4XBDm4czEedeAq_BMadx75SDB5sFPKagS6gA/photo/AF1QipNWnKnr3UIt-DPMYk9Gnbp288tEKnF221OGNapF?key=WkU5a0FQNGwzQWNrVmhrTzNuSlZYZG1ZS2xEUHlR)
+![Alt Text](https://s3-sa-east-1.amazonaws.com/certificados.diegoguimadev.com/web.gif)
 
 # :pushpin: Table of Contents
 
@@ -175,8 +175,6 @@ $ yarn start or npm run start
 ## Some notes
 <ul>
     <li>Only the mobile version is using hooks fully, web version needs a refactor for this</li>
-
-    <li>Mobile and web versions stay using StyledComponents</li>
 </ul>
 
 
